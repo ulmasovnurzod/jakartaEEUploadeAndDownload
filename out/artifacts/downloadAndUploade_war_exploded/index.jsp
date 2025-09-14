@@ -9,5 +9,9 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<br>
+<a style="color: green"   href="uploade.jsp">Upload sahofasi</a>
+<br>
+<a style="color: green"   href="download.jsp">Download </a>
 </body>
 </html>
